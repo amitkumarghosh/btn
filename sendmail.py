@@ -6,7 +6,7 @@ import smtplib
 import sqlite3
 
 import pandas as pd
-import apps_dbase.NewProgTest as ae
+
 
 import streamlit as st
 
